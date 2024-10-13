@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\bai3vn\bai3vn\bin\Debug\bai3vn.exe.config
+C:\Users\Admin\source\repos\bai3vn\bai3vn\bin\Debug\bai3vn.exe
+C:\Users\Admin\source\repos\bai3vn\bai3vn\bin\Debug\bai3vn.pdb
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.Form1.resources
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.Form2.resources
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.Properties.Resources.resources
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.exe
+C:\Users\Admin\source\repos\bai3vn\bai3vn\obj\Debug\bai3vn.pdb
